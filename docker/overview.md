@@ -51,4 +51,4 @@ docker rm my-nginx
 docker build -t myapp .
 ```
 
-TODO: Implement how to work with docker compose
+[Как использовать docker compose](/docker/docker-compose.md)
