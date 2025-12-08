@@ -6,5 +6,5 @@
 
 [CI/CD](/ci-cd/overview.md)
 
-[OSI Model](/osi-model/summary.md)
+[OSI Model](/osi-model/Summary.md)
 
