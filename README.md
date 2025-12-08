@@ -9,5 +9,5 @@
 
 [CI/CD](/ci-cd/overview.md)
 
-[OSI Model](/osi-model/Summary.md)
+[OSI Model](/osi-model/What is OSI.md)
 
